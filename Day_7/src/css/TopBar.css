@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+@import url('https://fonts.gstatic.com');
+@import url('https://fonts.googleapis.com');
+
+.landingNav {
+    
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .landingUl {
+    margin-top: 12px;
+    display: flex;
+    list-style-type: none;
+    width: 600px;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 15px;
+  }
+  
+  .LandList {
+    font-family: 'Poppins', sans-serif;
+    color : white;
+    text-decoration: none;
+  }
+  .LandList1 {
+    font-family: 'Poppins', sans-serif;
+    color : white;
+    text-decoration: none;
+    font-size: 22px;
+  }
+  .vs
+  {
+    background-color: black;
+    border-bottom: 2px solid #da4949;
+    border-left: .5px solid #da4949 ;
+    border-right: .5px solid #da4949;
+  }
+
+  .logoLand {
+    width: 100px;
+    height: 80px;
+  }
+  .person{
+    margin-right: 4px;
+  }
+  
+  .username{
+    color: #da4949;
+  }
