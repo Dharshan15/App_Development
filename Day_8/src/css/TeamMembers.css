@@ -1,0 +1,31 @@
+.team-header{
+    width: 100vw;
+    font-size: 30px;
+    color: white ;
+}
+
+.member-ul
+{
+    margin-left: 38%;
+    padding-left: 0px;
+    border-radius: 10px;
+    width: 350px;
+    background-color: #202020;
+}
+
+.member-li{
+    color: white;
+    list-style-type: none;
+    padding: 10px;
+    border: .5px solid #ed3f3f;
+    border-radius: 5px; 
+}
+.member-individual
+{
+    
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    max-width: 350px;
+    background-color: #202020;
+}
